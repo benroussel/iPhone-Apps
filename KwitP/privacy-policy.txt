@@ -1,0 +1,18 @@
+KwitP Privacy Policy
+
+Last updated: March 2026
+
+KwitP is designed with your privacy as the top priority.
+
+- KwitP does not collect any personal data.
+- KwitP does not use analytics or tracking of any kind.
+- KwitP does not contain ads.
+- KwitP does not communicate with any server.
+- KwitP does not use any third-party SDKs.
+- All data (streaks, urges, relapses, check-ins, selfies, settings) is stored exclusively on your device.
+- KwitP uses Apple's FamilyControls framework for content filtering. This is handled entirely by iOS and no data leaves your device.
+- Selfie photos taken during accountability check-ins are stored locally on your device as JPEG files and are never uploaded or shared unless you explicitly choose to share them.
+
+KwitP has no backend, no accounts, and no way to access your data. Your recovery journey is yours alone.
+
+Contact: kwitp@eroussel.com
