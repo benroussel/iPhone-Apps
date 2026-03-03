@@ -1,0 +1,60 @@
+Privacy Policy for BiteCoach
+Last updated: March 3, 2026
+
+1. INTRODUCTION
+
+BiteCoach ("the App") is developed by Benoit Roussel. This Privacy Policy explains how the App handles your information.
+
+2. DATA COLLECTION
+
+BiteCoach does NOT collect, transmit, or store any personal data on external servers. The App operates entirely offline on your device.
+
+Specifically, BiteCoach:
+- Does NOT require an internet connection
+- Does NOT require an account or sign-up
+- Does NOT use analytics or tracking tools
+- Does NOT include third-party SDKs that collect data
+- Does NOT transmit any data off your device
+
+3. DATA STORED ON YOUR DEVICE
+
+The following data is stored locally on your iPhone using Apple's on-device storage frameworks:
+
+- Food scan results (food name, nutrition estimates, timestamps, thumbnail images)
+- Scan history and favorites
+- Weight goals (current weight, target weight)
+- In-app purchase status
+- App preferences and settings
+
+This data never leaves your device and is fully under your control. Deleting the App removes all stored data.
+
+4. CAMERA AND PHOTO LIBRARY
+
+BiteCoach requests access to your camera to photograph food for identification. The App may also request access to your photo library so you can select existing food photos for analysis.
+
+All image processing is performed on-device using Apple's Vision and Core ML frameworks. Photos are not uploaded, transmitted, or stored beyond the thumbnail saved with each scan result.
+
+5. IN-APP PURCHASES
+
+BiteCoach offers optional in-app purchases (Premium and Platinum) processed entirely through Apple's App Store. Benoit Roussel does not have access to your payment information. Please refer to Apple's privacy policy for details on how Apple handles purchase transactions.
+
+6. CHILDREN'S PRIVACY
+
+BiteCoach does not knowingly collect any personal information from children. The App does not require any personal information to function.
+
+7. THIRD-PARTY SERVICES
+
+BiteCoach does not integrate any third-party services, SDKs, or APIs. The only external dependency is Apple's App Store for processing in-app purchases.
+
+8. CHANGES TO THIS POLICY
+
+This Privacy Policy may be updated from time to time. Any changes will be reflected in the "Last updated" date above.
+
+9. CONTACT
+
+If you have questions about this Privacy Policy, please contact:
+Email: bitecoach@eroussel.com
+
+10. DISCLAIMER
+
+BiteCoach provides estimated nutrition information using on-device machine learning. It is not a medical device and should not be used as a substitute for professional dietary advice.
