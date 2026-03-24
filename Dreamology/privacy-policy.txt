@@ -1,0 +1,21 @@
+Dreamology Privacy Policy
+
+Last updated: March 2026
+
+Dreamology is designed with your privacy as the top priority.
+
+- Dreamology does not collect any personal data.
+- Dreamology does not use analytics or tracking of any kind.
+- Dreamology does not contain ads.
+- Dreamology does not communicate with any server.
+- Dreamology does not use any third-party SDKs.
+- All data (dream entries, analysis results, settings) is stored exclusively on your device.
+- Dream analysis is performed entirely on-device using Apple's NaturalLanguage framework and a bundled rule-based engine. No dream text is ever sent to any server.
+- Voice recording for dream dictation uses Apple's on-device speech recognition. Audio is processed locally and is never transmitted.
+- Apple Health sleep data is read locally to display alongside dream entries. It is never stored externally or shared.
+- Face ID / Touch ID authentication is handled entirely by iOS LocalAuthentication. No biometric data is accessed or stored by the app.
+- The optional In-App Purchase is processed by Apple's App Store. Dreamology does not handle or store any payment information.
+
+Dreamology has no backend, no accounts, and no way to access your data. Your dreams are yours alone.
+
+Contact: dreamology@eroussel.com
