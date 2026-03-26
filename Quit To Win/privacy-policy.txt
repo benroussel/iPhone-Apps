@@ -1,0 +1,19 @@
+Quit To Win Privacy Policy
+
+Last updated: March 2026
+
+Quit To Win is designed with your privacy as the top priority.
+
+- Quit To Win does not collect any personal data.
+- Quit To Win does not use analytics or tracking of any kind.
+- Quit To Win does not contain ads.
+- Quit To Win does not communicate with any server.
+- Quit To Win does not use any third-party SDKs.
+- All data (streaks, cravings, wins, relapses, check-ins, selfies, smoking profile, settings) is stored exclusively on your device.
+- Selfie photos taken during accountability check-ins are stored locally on your device as JPEG files and are never uploaded or shared unless you explicitly choose to share them.
+- Guided sessions use Apple's built-in text-to-speech engine. No audio data leaves your device.
+- In-app purchases are handled entirely by Apple's StoreKit framework. Quit To Win does not process or store any payment information.
+
+Quit To Win has no backend, no accounts, and no way to access your data. Your quit journey is yours alone.
+
+Contact: quittowin@eroussel.com
